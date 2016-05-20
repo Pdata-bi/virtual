@@ -1,4 +1,4 @@
 <?php
-
-print 'echo';
+$echo = 'echo';
+print $echo;
 
