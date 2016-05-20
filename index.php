@@ -1,5 +1,4 @@
 <?php
+$echo = 'echo';
+print $echo . " > ". __FILE__;
 
-print 'echo';
-
-echo 'teste, mais um';
